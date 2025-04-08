@@ -1,7 +1,2 @@
-pydantic
-matplotlib
-pydantic-ai
-nest-asyncio
-langchain
-langchain-community
-langchain-groq
+openai>=1.12.0
+plotly>=5.18.0 
