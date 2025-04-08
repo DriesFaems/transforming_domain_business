@@ -1,3 +1,7 @@
-openai
-json
-plotly
+pydantic
+matplotlib
+pydantic-ai
+nest-asyncio
+langchain
+langchain-community
+langchain-groq
